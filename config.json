@@ -1,7 +1,7 @@
 {
     "prefix":"$",
     "token":"bot-token",
-    "url":"mongo-db-url",
-    "dbName":"db-name",
-    "paypal_email": "your-paypal-email"
+    "url":"mongodb+srv://sanjay123:sanjay123@cluster0.nkdzhox.mongodb.net/?retryWrites=true&w=majority",
+    "dbName":"cluster0",
+    "paypal_email": "never gonna up"
 }
